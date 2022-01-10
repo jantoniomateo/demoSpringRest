@@ -1,7 +1,7 @@
 package com.openbootcamp.demospringrest.models;
 
 public class Bootcamper {
-    //Datos
+    //Datos del modelo REST
     private String nombre;
     private double valor;
 
